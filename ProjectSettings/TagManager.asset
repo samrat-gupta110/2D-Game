@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - boxes
+  - turn
+  - movingposition
+  - ball
+  - icefloor
+  - turn2
+  - FallDectctors
+  - Checkpoints
+  - enemies
+  - checkpoint2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - coins
+  - ' enemies'
+  - dragons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: blackground
+    uniqueID: 1576079149
+    locked: 0
+  - name: playerlayer
+    uniqueID: 1813976383
+    locked: 0
+  - name: midground
+    uniqueID: 1158339033
+    locked: 0
+  - name: forground
+    uniqueID: 597505107
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
