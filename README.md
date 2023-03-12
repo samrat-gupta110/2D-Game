@@ -21,4 +21,3 @@ https://user-images.githubusercontent.com/60893601/224555652-1dcd6756-c45a-4cfe-
 2. Go to Demo/windows/x86.
 3.Than just double click on Coincollector.exe
 
-
