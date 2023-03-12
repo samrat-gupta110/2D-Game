@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/60893601/224555652-1dcd6756-c45a-4cfe-
 
 # How to download and play
 
-1. Clone the project.
+1. Clone the project :- https://github.com/samrat-gupta110/2D-Game.git
 2. Go to Demo folder.
 
 
