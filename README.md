@@ -1,4 +1,5 @@
-# 2D-Game
+# 2D-Game 
+<i class="fa-solid fa-alien-8bit"></i>
 A 2D Game where a player have to collected coins and clear the stage. <strong>Made with unity and C#</strong>
 <br><br>
 # Start-Screen
