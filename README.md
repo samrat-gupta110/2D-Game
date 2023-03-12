@@ -10,7 +10,7 @@ A 2D Game where a player have to collected coins and clear the stage. Made with 
 ![Screenshot (43)](https://user-images.githubusercontent.com/60893601/224553869-757ae504-8645-4794-a3fd-55ee36dee0a8.png)
 ![Screenshot (44)](https://user-images.githubusercontent.com/60893601/224553870-a9ef8edc-aed7-4e62-a5fe-dbd877326286.png)
 
-# Clip
+# Video Clip
 
 
 https://user-images.githubusercontent.com/60893601/224555652-1dcd6756-c45a-4cfe-8302-010ac9f9756c.mp4
