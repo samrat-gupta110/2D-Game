@@ -3,7 +3,7 @@
 ![game-controller](https://user-images.githubusercontent.com/60893601/224556632-1b65c974-0a04-484b-a50d-9afd76d7ce29.png)
 
 A 2D Game where a player have to collected coins and clear the stage.
-<strong>Made with unity and csharp </strong>
+<strong>Made with unity and CSharp </strong>
 
 <br><br>
 
