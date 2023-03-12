@@ -12,3 +12,7 @@ A 2D Game where a player have to collected coins and clear the stage. Made with 
 
 # Clip
 
+
+https://user-images.githubusercontent.com/60893601/224555652-1dcd6756-c45a-4cfe-8302-010ac9f9756c.mp4
+
+
