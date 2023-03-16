@@ -4,7 +4,6 @@
 
 A 2D Game where a player have to collected coins and clear the stage.
 <strong>Made with Unity2D and C# </strong>
-<strong> Made with Flutter, Dart, Firebase and Firestore </strong>
 
 <br><br>
 
